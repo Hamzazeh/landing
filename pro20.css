@@ -140,6 +140,7 @@ nav ul {
   color: #ffffff;
   column-gap: 5rem;
   max-width: 55rem;
+  margin: auto;
 }
 
 .section img {
