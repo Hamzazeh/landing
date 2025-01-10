@@ -213,6 +213,10 @@ nav ul {
     padding-bottom: 4rem;
   }
 
+  .section2{
+    flex-direction: column-reverse;
+  }
+
   .section h2{
     margin-top: 3rem;
   }
